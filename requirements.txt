@@ -1,0 +1,4 @@
+YOLO
+streamlit
+PIL
+os
