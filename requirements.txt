@@ -1,4 +1,5 @@
-YOLO
 streamlit
-PIL
-os
+ultralytics
+numpy
+Pillow
+
